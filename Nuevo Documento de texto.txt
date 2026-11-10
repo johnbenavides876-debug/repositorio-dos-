@@ -18,3 +18,4 @@ El objetivo de la asignatura de Programación Orientada a Objetos es que el estu
 El estudio de factibilidad sirve para determinar si un proyecto es viable antes de desarrollarlo, analizando sus aspectos técnicos, económicos, legales, operativos y de tiempo (TELOS), con el fin de reducir riesgos y decidir si conviene ejecutarlo.
 
 ¿Cuál es el objetivo principal de una base de datos?
+El objetivo principal de una base de datos es almacenar y organizar la información de forma estructurada, para poder consultarla, actualizarla y protegerla de manera rápida, segura y consistente, evitando la redundancia y garantizando la integridad de los datos.
