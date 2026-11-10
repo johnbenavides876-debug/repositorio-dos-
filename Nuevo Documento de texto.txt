@@ -11,11 +11,6 @@ L - Legal (Legal): si cumple con las leyes, normas y licencias aplicables.
 O - Operativa (Operational): si la organización y los usuarios pueden usar y mantener el sistema en la práctica.
 S - Cronograma (Schedule): si se puede terminar dentro del tiempo y los plazos previstos.
  
-
-<<<<<<< HEAD
-¿Cuál es el significado del acrónimo que constituye el marco Telos?u
- 
 ¿explique cual es el objetivo de la asignatura de programación orientada a objetos?
-=======
- 
->>>>>>> 6b734e4fd8bbee69a0069148ee1c2375153a00df
+
+
