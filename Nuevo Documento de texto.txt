@@ -11,5 +11,8 @@ L - Legal (Legal): si cumple con las leyes, normas y licencias aplicables.
 O - Operativa (Operational): si la organización y los usuarios pueden usar y mantener el sistema en la práctica.
 S - Cronograma (Schedule): si se puede terminar dentro del tiempo y los plazos previstos.
  
-¿Explique cual es el objetivo de la asignatura de programación orientada a objetos?
-El objetivo de la asignatura de Programación Orientada a Objetos es que el estudiante aprenda a diseñar y desarrollar software modelando problemas reales mediante clases y objetos, aplicando los principios de abstracción, encapsulamiento, herencia y polimorfismo para crear programas reutilizables, organizados y fáciles de mantener.
+¿explique cual es el objetivo de la asignatura de programación orientada a objetos?
+
+¿para que sirve el estudio de factibilidad?
+
+
