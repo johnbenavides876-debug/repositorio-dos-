@@ -16,3 +16,5 @@ El objetivo de la asignatura de Programación Orientada a Objetos es que el estu
 
 ¿Para que sirve el estudio de factibilidad?
 El estudio de factibilidad sirve para determinar si un proyecto es viable antes de desarrollarlo, analizando sus aspectos técnicos, económicos, legales, operativos y de tiempo (TELOS), con el fin de reducir riesgos y decidir si conviene ejecutarlo.
+
+¿Cuál es el objetivo principal de una base de datos?
