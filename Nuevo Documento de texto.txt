@@ -2,5 +2,14 @@ que onda mundo soy un programador
 
 ¿Dónde están los tamales?
 En Tamaulipas
-¿Cuál es el significado del acrónimo que constituye el marco Telos?u
+¿Cuál es el significado del acrónimo que constituye el marco Telos?
+TELOS es un marco para evaluar la factibilidad de un proyecto, y cada letra representa un tipo de análisis:
+
+T - Técnica (Technical): si se cuenta con la tecnología, las herramientas y los conocimientos necesarios.
+E - Económica (Economic): si el proyecto es rentable y los costos son asumibles.
+L - Legal (Legal): si cumple con las leyes, normas y licencias aplicables.
+O - Operativa (Operational): si la organización y los usuarios pueden usar y mantener el sistema en la práctica.
+S - Cronograma (Schedule): si se puede terminar dentro del tiempo y los plazos previstos.
+ 
+
  
