@@ -23,4 +23,4 @@ El objetivo principal de una base de datos es almacenar y organizar la informaci
 ¿Cuáles son penalizaciones que sufre un desarrollador de software al filtrar datos?
 Un desarrollador que filtra datos puede enfrentar sanciones penales por revelación ilegal de base de datos (art. 229 del COIP, con pena privativa de libertad), multas administrativas según la Ley de Protección de Datos Personales, demanda por indemnización de daños y perjuicios, y consecuencias laborales como el despido y la pérdida de reputación profesional.
 
-fin de preguntas 
+conversación finalizada
